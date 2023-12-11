@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Add to Compare</name>
+   <tag></tag>
+   <elementGuidId>2be9faa3-fe96-412b-814f-a586248daf72</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='container']/div/div[3]/div/div[2]/div[3]/div/div/div/a/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ba8f30ff-48b5-4790-b965-388c3f6b00ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MIXNux</value>
+      <webElementGuid>0107e676-559a-4af9-9607-a4f2769e3103</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add to Compare</value>
+      <webElementGuid>fdea3474-de8b-45e9-940f-5914cee3583c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;container&quot;)/div[1]/div[@class=&quot;_36fx1h _6t1WkM _3HqJxg&quot;]/div[@class=&quot;_1YokD2 _2GoDe3&quot;]/div[@class=&quot;_1YokD2 _3Mn1Gg&quot;]/div[@class=&quot;_1AtVbE col-12-12&quot;]/div[@class=&quot;_13oc-S&quot;]/div[1]/div[@class=&quot;_2kHMtA&quot;]/a[@class=&quot;_1fQZEK&quot;]/div[@class=&quot;MIXNux&quot;]</value>
+      <webElementGuid>36a1169e-3269-42b1-b153-b68a7668a709</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='container']/div/div[3]/div/div[2]/div[3]/div/div/div/a/div</value>
+      <webElementGuid>0235b440-27e2-4858-bbba-913585bc7c4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/a/div</value>
+      <webElementGuid>df1bed9a-25a0-4d10-86d0-fd924cc217ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Add to Compare' or . = 'Add to Compare')]</value>
+      <webElementGuid>eee09e01-48dc-4809-a4e7-8219b7bc8e32</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

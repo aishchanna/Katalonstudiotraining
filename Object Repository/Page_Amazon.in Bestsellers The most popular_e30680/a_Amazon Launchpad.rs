@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Amazon Launchpad</name>
+   <tag></tag>
+   <elementGuidId>2836c894-6822-4264-98df-9e5398f5bb61</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div._p13n-zg-nav-tree-all_style_zg-browse-item__1rdKf._p13n-zg-nav-tree-all_style_zg-browse-height-small__nleKL > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='CardInstanceA-uDtBQYPF3P6IP5zTBivw']/div[2]/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>e8e2e254-447c-4854-8804-fa0fdda016de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/gp/bestsellers/boost/ref=zg_bs_nav_boost_0</value>
+      <webElementGuid>76892812-910c-4a07-ba73-d4a9c3880838</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Amazon Launchpad</value>
+      <webElementGuid>e1d2b62a-b1a1-4ec4-82e1-75bb99dc25d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;CardInstanceA-uDtBQYPF3P6IP5zTBivw&quot;)/div[@class=&quot;_p13n-zg-nav-tree-all_style_zg-browse-group__88fbz&quot;]/div[@class=&quot;_p13n-zg-nav-tree-all_style_zg-browse-item__1rdKf _p13n-zg-nav-tree-all_style_zg-browse-height-small__nleKL&quot;]/a[1]</value>
+      <webElementGuid>8719ee80-0ff7-4076-a2ae-023a362126ee</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='CardInstanceA-uDtBQYPF3P6IP5zTBivw']/div[2]/div/a</value>
+      <webElementGuid>a6ddcbbe-227d-40c1-be18-c80b1406dfeb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Amazon Launchpad')]</value>
+      <webElementGuid>e1fdecab-c29f-45c4-b461-74babab0b34a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/gp/bestsellers/boost/ref=zg_bs_nav_boost_0')]</value>
+      <webElementGuid>4a7c6524-207a-4e2e-a985-51dbcf2f11ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div/a</value>
+      <webElementGuid>6de98041-341e-4c11-abec-af61a27136a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/gp/bestsellers/boost/ref=zg_bs_nav_boost_0' and (text() = 'Amazon Launchpad' or . = 'Amazon Launchpad')]</value>
+      <webElementGuid>af97e1c1-1e82-4bd6-a440-44dbcc15b704</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

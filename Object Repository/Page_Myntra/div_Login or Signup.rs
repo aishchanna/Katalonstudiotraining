@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Login or Signup</name>
+   <tag></tag>
+   <elementGuidId>77b5960d-4f6b-4b8a-a52e-f1e3d8b05aeb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.welcome-header</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='reactPageContent']/div/div/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>773a768e-fd20-4670-856d-cabb96b485b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>welcome-header</value>
+      <webElementGuid>f03e60c6-8ab8-465f-b3ff-7d3e79770049</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Login or Signup</value>
+      <webElementGuid>64a4a60d-87d4-4322-9301-d63157916ed0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;reactPageContent&quot;)/div[@class=&quot;authPage&quot;]/div[1]/div[@class=&quot;signInContainer&quot;]/div[@class=&quot;welcome-header&quot;]</value>
+      <webElementGuid>2e154faa-af13-4f6b-9f3f-d1b4dc5e75ee</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='reactPageContent']/div/div/div[2]/div</value>
+      <webElementGuid>994ca584-7fe9-4101-a62b-3fc37ee6b272</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div/div/div/div/div/div[2]/div</value>
+      <webElementGuid>2d587aa0-2369-4b03-90ea-d38dc38b0768</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Login or Signup' or . = 'Login or Signup')]</value>
+      <webElementGuid>f0d76317-91d6-464e-953b-84d4c8bd411d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

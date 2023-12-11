@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b_Resources</name>
+   <tag></tag>
+   <elementGuidId>8d857d4f-239f-4d85-9ef1-0ba3862ce344</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='header-navigation']/ul/li[4]/a/b</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.nav-resources > a.nav-parent > b</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>7e193469-6e86-4478-a775-7e000a1ea0b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Resources</value>
+      <webElementGuid>b984016e-435a-423c-8712-1dd34f8a6ea2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header-navigation&quot;)/ul[1]/li[@class=&quot;nav-resources&quot;]/a[@class=&quot;nav-parent&quot;]/b[1]</value>
+      <webElementGuid>38b85603-7100-4358-898e-0a963fdadaf5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='header-navigation']/ul/li[4]/a/b</value>
+      <webElementGuid>6cab14f1-9e03-4a77-bb70-4bb932c29f90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/a/b</value>
+      <webElementGuid>8b3c31dd-6daf-4e15-9de8-dbb827fbc674</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[(text() = 'Resources' or . = 'Resources')]</value>
+      <webElementGuid>93ee8547-caf3-4486-ba7b-7c6ff2012eff</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

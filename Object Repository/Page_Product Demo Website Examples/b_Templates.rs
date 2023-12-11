@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b_Templates</name>
+   <tag></tag>
+   <elementGuidId>95efc10b-d6b5-47c5-b04a-ae793ef32615</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='header-navigation']/ul/li[3]/a/b</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.nav-templates > a.nav-parent > b</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>e12c3205-ad96-459b-9abe-463f69ab945c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Templates</value>
+      <webElementGuid>62798cb2-837b-4c49-8c18-437f7b469667</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header-navigation&quot;)/ul[1]/li[@class=&quot;nav-templates&quot;]/a[@class=&quot;nav-parent&quot;]/b[1]</value>
+      <webElementGuid>7e762ccf-5bde-4842-95a0-00da4b92e333</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='header-navigation']/ul/li[3]/a/b</value>
+      <webElementGuid>6d0566b9-6410-4199-b85d-ac062a0c0bf0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/a/b</value>
+      <webElementGuid>6e54d554-3743-4c16-ad3b-a3afec969f67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[(text() = 'Templates' or . = 'Templates')]</value>
+      <webElementGuid>3615658a-a7f3-4ce4-a6de-c87afb5b051f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

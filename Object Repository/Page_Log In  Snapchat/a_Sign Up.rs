@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Sign Up</name>
+   <tag></tag>
+   <elementGuidId>b74a2611-5105-47b2-b4c8-b7943c0dc68c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.create-account-cta > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='account-identifier-root']/div/div[3]/article/div[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>320f3fd0-445c-40cc-8a4b-9646d8e8879c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/accounts/signup</value>
+      <webElementGuid>9da0decd-19f6-47b4-bc79-8e2df5aefa7e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign Up</value>
+      <webElementGuid>5a21ce2f-478e-4b86-820d-639eb8984b36</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;account-identifier-root&quot;)/div[@class=&quot;App&quot;]/div[@class=&quot;AccountIdentifier&quot;]/article[@class=&quot;page&quot;]/div[@class=&quot;create-account-cta&quot;]/a[1]</value>
+      <webElementGuid>f0aec33e-d833-4bbf-b99f-3e7f59b830f8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='account-identifier-root']/div/div[3]/article/div[2]/a</value>
+      <webElementGuid>0ee38309-3a66-4546-839e-f6ed0b51a306</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Sign Up')]</value>
+      <webElementGuid>214c4488-6f45-48ce-889b-540425c8dea3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/accounts/signup')]</value>
+      <webElementGuid>43f90e92-180a-4711-8d22-897a67274da8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//article/div[2]/a</value>
+      <webElementGuid>022c2132-33d1-40b5-aaa6-866dd5b0c2a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/accounts/signup' and (text() = 'Sign Up' or . = 'Sign Up')]</value>
+      <webElementGuid>b22255fc-0319-4d39-b426-d1e696069e01</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

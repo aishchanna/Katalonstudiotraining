@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Black (2)</name>
+   <tag></tag>
+   <elementGuidId>164d1ab7-f2c6-494b-ac0c-f896ceb25d78</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='woocommerce_layered_nav-3']/ul/li</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>0826bdd6-3d11-44cc-86bc-2fa16e9ae650</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>woocommerce-widget-layered-nav-list__item wc-layered-nav-term </value>
+      <webElementGuid>aadfaebf-41b8-40c0-8683-6283d10f5670</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Black (2)</value>
+      <webElementGuid>929c99e0-593b-4938-a125-4820da9a5da7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;woocommerce_layered_nav-3&quot;)/ul[@class=&quot;woocommerce-widget-layered-nav-list&quot;]/li[@class=&quot;woocommerce-widget-layered-nav-list__item wc-layered-nav-term&quot;]</value>
+      <webElementGuid>e765c61b-32bf-49de-a44b-bad19ff5cdfa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Demo Site/iframeiframe</value>
+      <webElementGuid>57b222ae-4ce2-481b-bbce-c2cac44989ff</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='woocommerce_layered_nav-3']/ul/li</value>
+      <webElementGuid>f9b3a502-f564-431b-a289-f39c8e2c0121</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[2]/ul/li</value>
+      <webElementGuid>8eec795e-c392-4343-aa2a-52a23c122c2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Black (2)' or . = 'Black (2)')]</value>
+      <webElementGuid>84b4141a-4596-4c2b-ae18-51a985b1a038</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

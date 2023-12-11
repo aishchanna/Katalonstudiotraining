@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Go to LearnDash Demo</name>
+   <tag></tag>
+   <elementGuidId>787d9c36-1722-4a15-b35d-1a4d01b25579</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[@id='backtoblog']/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#backtoblog > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>84367407-e8ff-481e-874d-4446c400785e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://demo.learndash.com/</value>
+      <webElementGuid>d124af6a-886b-4174-884d-d0a971b42028</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>← Go to LearnDash Demo</value>
+      <webElementGuid>a99ab28f-e600-41bb-af17-784f49882504</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;backtoblog&quot;)/a[1]</value>
+      <webElementGuid>012c43cf-aa5b-4e81-8c29-c19e3e043810</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//p[@id='backtoblog']/a</value>
+      <webElementGuid>0730e806-5f2d-4ccb-bb22-f5efbc0f8207</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'← Go to LearnDash Demo')]</value>
+      <webElementGuid>63d8c89d-b664-41de-affe-644c573c6f5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://demo.learndash.com/')])[3]</value>
+      <webElementGuid>e0f5c2b3-7711-4256-95ef-99a1027ea04d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[2]/a</value>
+      <webElementGuid>d74113a7-459c-4ad6-a1dd-a138e1fd6f86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://demo.learndash.com/' and (text() = '← Go to LearnDash Demo' or . = '← Go to LearnDash Demo')]</value>
+      <webElementGuid>e7117879-ed4d-40f5-8753-94a2656a2780</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

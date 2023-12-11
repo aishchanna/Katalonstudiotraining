@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Username</name>
+   <tag></tag>
+   <elementGuidId>e4f867bf-b4eb-4eef-bdd6-4a3785f9f1cc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='base-content']/form/fieldset/div[2]/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>2a67a208-9754-4376-bee9-6e668aff65d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-sm-2 control-label
+                        </value>
+      <webElementGuid>4880de43-9b8e-4708-a561-739a4d1f8ce1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>id_username</value>
+      <webElementGuid>499f5cb5-7e5b-4547-b8da-6c3d1b74906c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Username*
+                        
+                </value>
+      <webElementGuid>127ffcc7-4fe7-4515-8d57-2a3fb4f5fdb7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;base-content&quot;)/form[@class=&quot;form-horizontal&quot;]/fieldset[@class=&quot;col-md-offset-3 col-md-6&quot;]/div[@class=&quot;form-group&quot;]/label[@class=&quot;col-sm-2 control-label&quot;]</value>
+      <webElementGuid>324c8acc-e054-4b0d-89d7-17afdcf46c84</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='base-content']/form/fieldset/div[2]/label</value>
+      <webElementGuid>06f07ad9-90ed-4176-b13d-190d5257b282</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label</value>
+      <webElementGuid>597cb47d-f1a7-47a0-8a82-f7fdc2f4d5f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Username*
+                        
+                ' or . = 'Username*
+                        
+                ')]</value>
+      <webElementGuid>88948b6a-ec6b-4c5b-b644-b4aaac5e3dbc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Sign up  Login</name>
+   <tag></tag>
+   <elementGuidId>b4abdc89-9355-406f-ab47-b6996d07a209</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='menu-item-686']/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#menu-item-686 > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>64a0a4cf-f6ec-45be-8370-2ec9405f6060</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://wpdemo.net/join</value>
+      <webElementGuid>1acdef3a-4b5d-4cc3-99f2-7c1ed8ac4aaf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-wpel-link</name>
+      <type>Main</type>
+      <value>internal</value>
+      <webElementGuid>5e0a654d-bedd-4dde-84b4-1f7d22c152e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign up / Login</value>
+      <webElementGuid>ece0198b-ca5a-4071-be51-0f671dd24c26</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu-item-686&quot;)/a[1]</value>
+      <webElementGuid>b1350463-c92a-4103-a8d5-c8a4a80a6146</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='menu-item-686']/a</value>
+      <webElementGuid>6bb0b21f-3901-4dde-a0d9-bee6cfb5d0d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Sign up / Login')]</value>
+      <webElementGuid>edd5c7b2-7e52-434a-a185-e8df645befcd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://wpdemo.net/join')]</value>
+      <webElementGuid>d41f530d-48b0-40a1-b283-01bf1fc1cb9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/a</value>
+      <webElementGuid>904a3252-154f-41d4-83e8-5f87727965eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://wpdemo.net/join' and (text() = 'Sign up / Login' or . = 'Sign up / Login')]</value>
+      <webElementGuid>628bde85-717a-4cea-b4c0-60ac156e3010</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

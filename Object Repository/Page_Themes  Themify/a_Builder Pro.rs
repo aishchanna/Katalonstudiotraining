@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Builder Pro</name>
+   <tag></tag>
+   <elementGuidId>efda9013-a0e0-4896-a95a-21b14a94fbc9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='menu-item-626435']/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#menu-item-626435 > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>0795ce92-d93a-4d1e-95e9-303240f46323</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://themify.me/builder-pro</value>
+      <webElementGuid>ade58aef-7ed4-4666-86a5-7e6b4aa1553d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Builder Pro</value>
+      <webElementGuid>ce65a4ae-0636-401b-baff-f65c5938d225</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu-item-626435&quot;)/a[1]</value>
+      <webElementGuid>6360fccb-227f-4bc9-9ae9-48ab1752f9d5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='menu-item-626435']/a</value>
+      <webElementGuid>60153d22-4366-4aa7-9926-6960ac129aff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Builder Pro')]</value>
+      <webElementGuid>028a401b-75bf-4e27-b039-8d68f5c76193</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://themify.me/builder-pro')]</value>
+      <webElementGuid>0d51afc0-3d1a-47f4-b917-c86f49cb5f5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a</value>
+      <webElementGuid>eb9f3323-6aee-47aa-9ea3-7fd19eebfe3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://themify.me/builder-pro' and (text() = 'Builder Pro' or . = 'Builder Pro')]</value>
+      <webElementGuid>0f02e8f7-cb52-40ed-9e78-ee2d86cc24d5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Username or Email</name>
+   <tag></tag>
+   <elementGuidId>2d0eec33-8965-45e6-92c9-812c0b3c4bb0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='forms-root']/div/div/form/div/div/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>label.sc-ikkxIA.ghIuyE</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>21a60382-ad14-450d-b327-2d73ca95e9f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-ikkxIA ghIuyE</value>
+      <webElementGuid>06d08f72-12ed-4469-aaba-09171bf58426</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>username</value>
+      <webElementGuid>a260a8f2-70ea-4d43-bdee-eae3fc987e73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Username or Email</value>
+      <webElementGuid>19875bde-fbd9-4620-915f-81feb118b272</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;forms-root&quot;)/div[@class=&quot;sc-kdBSHD ksjXvw&quot;]/div[@class=&quot;sc-imWYAI sc-tagGq dXWkvI krlRAc&quot;]/form[@class=&quot;sc-eldPxv hEtezd&quot;]/div[@class=&quot;sc-imWYAI sc-fPXMVe cIMMqX iZqZog&quot;]/div[@class=&quot;sc-aXZVg eggJqX sc-eqUAAy sc-hzhJZQ hpxZmX eAIYbP label-container&quot;]/label[@class=&quot;sc-ikkxIA ghIuyE&quot;]</value>
+      <webElementGuid>afb36e73-8bad-4c99-9fa9-fcf36ac0b8bb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='forms-root']/div/div/form/div/div/label</value>
+      <webElementGuid>39dc1c28-775e-460c-9ca4-0f129893dc2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div/label</value>
+      <webElementGuid>e049dae0-ff35-48e0-90c8-902ddeed5371</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Username or Email' or . = 'Username or Email')]</value>
+      <webElementGuid>ead80caf-c347-4325-9df5-04a6a25696c4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

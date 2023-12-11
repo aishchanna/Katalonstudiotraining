@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Password</name>
+   <tag></tag>
+   <elementGuidId>e6add1f9-ee85-4038-9020-ed43b9092185</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='base-content']/form/fieldset/div[3]/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>ff389d40-72e9-4747-b912-9cc68084df32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-sm-2 control-label
+                        </value>
+      <webElementGuid>0603581e-dcb3-4abf-8cd7-d8ad8925929f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>id_password</value>
+      <webElementGuid>1b2c1b42-4a79-4869-91da-0b8032d930aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Password*
+                        
+                </value>
+      <webElementGuid>dcb7a4e8-584e-4341-ad1c-2f0b2235e774</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;base-content&quot;)/form[@class=&quot;form-horizontal&quot;]/fieldset[@class=&quot;col-md-offset-3 col-md-6&quot;]/div[@class=&quot;form-group&quot;]/label[@class=&quot;col-sm-2 control-label&quot;]</value>
+      <webElementGuid>50b25183-6430-4af8-b136-ef6743dbc15c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='base-content']/form/fieldset/div[3]/label</value>
+      <webElementGuid>ed2496fc-23cb-4e6d-a924-38b16cfeb8e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/label</value>
+      <webElementGuid>2e691da3-24be-4e22-a1ea-31a9a72cef63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Password*
+                        
+                ' or . = 'Password*
+                        
+                ')]</value>
+      <webElementGuid>ac058ee3-529f-4b52-91df-c92e10855b27</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

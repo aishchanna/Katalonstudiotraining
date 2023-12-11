@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_New to Flipkart Create an account</name>
+   <tag></tag>
+   <elementGuidId>2e4e917d-327e-4ba0-996d-158df5fde47b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a._1O7q6e</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'New to Flipkart? Create an account')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a82fd62a-6113-4b57-9037-772a25a2309b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/account/login?signup=true</value>
+      <webElementGuid>4e6ba449-019b-49f8-8117-490c0a24763d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_1O7q6e</value>
+      <webElementGuid>57d42831-0b4e-4654-b9c8-bb3288793f5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>New to Flipkart? Create an account</value>
+      <webElementGuid>c45b2f17-7372-4305-b302-cb63a6dd09c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;useInterFont en-fonts-loaded&quot;]/body[@class=&quot;fk-modal-visible&quot;]/div[@class=&quot;fbDBuK _3CYmv5&quot;]/div[@class=&quot;JFPqaw&quot;]/div[@class=&quot;_17UxrZ&quot;]/div[@class=&quot;_1E5Hij&quot;]/div[@class=&quot;_3skCyB&quot;]/div[1]/form[1]/div[@class=&quot;_16Qo3_&quot;]/a[@class=&quot;_1O7q6e&quot;]</value>
+      <webElementGuid>fe7800ba-4040-497c-9f77-33a28c2eb6a6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'New to Flipkart? Create an account')]</value>
+      <webElementGuid>cfa636db-f326-424c-94e3-b6775dfb74c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/account/login?signup=true')])[2]</value>
+      <webElementGuid>1365fbcf-21cd-4a75-b804-997c545ea9dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[4]/a</value>
+      <webElementGuid>50eaefbf-1d16-4aa5-85bd-d3adffae9e05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/account/login?signup=true' and (text() = 'New to Flipkart? Create an account' or . = 'New to Flipkart? Create an account')]</value>
+      <webElementGuid>12139677-1db9-4fa9-9986-6293dd6b36f1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

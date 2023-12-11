@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Electronics</name>
+   <tag></tag>
+   <elementGuidId>90e231da-fbe9-4003-8578-d84381eafb36</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span._2I9KP_._2WDRax</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='container']/div/div[2]/div/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ed330f1c-ac2c-41b2-a4a6-8320c63c908e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_2I9KP_ _2WDRax</value>
+      <webElementGuid>471f3c49-d50e-4236-8404-ee179f6e3e62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Electronics</value>
+      <webElementGuid>5bfc76f9-8d61-4576-abae-096504a0c14e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;container&quot;)/div[1]/div[@class=&quot;_331-kn&quot;]/div[@class=&quot;_3Il5oO dwRsDN&quot;]/div[@class=&quot;_1kidPb&quot;]/span[@class=&quot;_2I9KP_ _2WDRax&quot;]</value>
+      <webElementGuid>d32113ee-f81c-420d-b853-9d7406e2de70</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='container']/div/div[2]/div/div/span</value>
+      <webElementGuid>52811938-1bd4-4d30-98f8-8c6c8677ed52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/span</value>
+      <webElementGuid>82d57af7-8de2-47c7-b302-9478ae66911c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Electronics' or . = 'Electronics')]</value>
+      <webElementGuid>de42efdd-a848-4de5-bf9d-befb9948b240</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

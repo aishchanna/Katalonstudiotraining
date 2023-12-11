@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_What is Amazon Pay</name>
+   <tag></tag>
+   <elementGuidId>d0dafc07-7fda-4cd9-8689-c2372dbc4a36</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//bsp-header[@id='rails-main-nav']/div/div/div/div[2]/nav/ul/li/bsp-toggler/div[2]/ul/li[2]/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e290f823-1f80-4f79-9348-accdd5366071</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>NavigationLink-title</value>
+      <webElementGuid>f91cec2c-129b-4e79-acaa-b1208420ec3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>What is Amazon Pay?</value>
+      <webElementGuid>b5684246-0f4a-42b9-a2c4-85cfa0970fc1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;rails-main-nav&quot;)/div[@class=&quot;Page-header-hamburger-menu&quot;]/div[@class=&quot;Page-header-hamburger-menu-wrapper&quot;]/div[@class=&quot;Page-header-hamburger-menu-content&quot;]/div[@class=&quot;MobileNavigation&quot;]/nav[1]/ul[@class=&quot;MobileNavigation-items&quot;]/li[@class=&quot;MobileNavigation-items-item&quot;]/bsp-toggler[@class=&quot;MobileNavigationItem&quot;]/div[@class=&quot;MobileNavigationItem-items-container&quot;]/ul[@class=&quot;MobileNavigationItem-items&quot;]/li[@class=&quot;MobileNavigationItem-items-item&quot;]/a[@class=&quot;NavigationLink&quot;]/span[@class=&quot;NavigationLink-title&quot;]</value>
+      <webElementGuid>135627c7-5dd2-48b3-b86b-7103b3138069</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//bsp-header[@id='rails-main-nav']/div/div/div/div[2]/nav/ul/li/bsp-toggler/div[2]/ul/li[2]/a/span</value>
+      <webElementGuid>da82e198-57e6-42f8-aa2a-ac9f7e049b70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a/span</value>
+      <webElementGuid>9d4c5b18-114b-4b03-8855-e71917cf1dfd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'What is Amazon Pay?' or . = 'What is Amazon Pay?')]</value>
+      <webElementGuid>fc254888-6cf2-4cc7-824a-4f6b48665fcc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

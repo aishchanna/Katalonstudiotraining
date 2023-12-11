@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Forums</name>
+   <tag></tag>
+   <elementGuidId>01f89ca1-39a9-4943-bd47-961837566e0f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='sitetopnavbar']/ul/li/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.nav-link > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f1a17206-1cb0-4c08-abf7-40f2485489d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Forums</value>
+      <webElementGuid>caddf059-9481-4e00-8461-f8585b5f50dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sitetopnavbar&quot;)/ul[@class=&quot;navbar-nav&quot;]/li[@class=&quot;nav-item Forums&quot;]/a[@class=&quot;nav-link&quot;]/span[1]</value>
+      <webElementGuid>5946e378-5527-478c-a52d-55ab05fd6199</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sitetopnavbar']/ul/li/a/span</value>
+      <webElementGuid>7cae888e-1f39-44c8-a6e4-167a0c5c732d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/span</value>
+      <webElementGuid>5b24c473-c442-42f1-b92c-5eeecf58b952</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Forums' or . = 'Forums')]</value>
+      <webElementGuid>5b00f7cd-1d69-454d-8b1e-72c66c6d749a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

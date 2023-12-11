@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_fas fa-angle-down</name>
+   <tag></tag>
+   <elementGuidId>39415b90-7b63-44e2-b855-4738fec071c8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='popularfx_search']/div/span/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fas.fa-angle-down</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>afa0db8e-dc27-439f-9895-c45b70a74027</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fas fa-angle-down</value>
+      <webElementGuid>72fb1814-e89a-4cc9-b9d5-b5300f76f04b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;popularfx_search&quot;)/div[@class=&quot;sitepad-dropdown sitepad-categories&quot;]/span[@class=&quot;sitepad-down&quot;]/i[@class=&quot;fas fa-angle-down&quot;]</value>
+      <webElementGuid>e4fc57d0-91cb-4835-b435-7682c8709ff9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='popularfx_search']/div/span/i</value>
+      <webElementGuid>988f63a0-aa33-4d3e-9a75-9fa781bf0660</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/i</value>
+      <webElementGuid>f7e72470-9c0d-4387-96c2-aad898f63076</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

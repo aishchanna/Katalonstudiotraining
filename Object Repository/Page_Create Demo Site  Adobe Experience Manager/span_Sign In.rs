@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Sign In</name>
+   <tag></tag>
+   <elementGuidId>a812ea4c-9076-4c4f-be1d-7cf3152a13f8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//nav[@id='nav']/div/div[2]/div/div[5]/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.navbar-item.no-bg.is-hidden-touch > button.spectrum-Button.spectrum-Button--fill.spectrum-Button--accent.spectrum-Button--sizeM > span.spectrum-Button-label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>13ab0e53-718f-4119-b3a2-981d63e75a94</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>spectrum-Button-label</value>
+      <webElementGuid>543689db-a6ff-418f-8656-b1147684898e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign In</value>
+      <webElementGuid>348de4ee-57f1-42f8-a45c-e3ae49df3594</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;nav&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;navbar-menu spectrum-Body spectrum-Body--sizeS&quot;]/div[@class=&quot;navbar-start&quot;]/div[@class=&quot;navbar-item no-bg is-hidden-touch&quot;]/button[@class=&quot;spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM&quot;]/span[@class=&quot;spectrum-Button-label&quot;]</value>
+      <webElementGuid>a246beb9-bc1d-46e8-a145-0c08ec81dee8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//nav[@id='nav']/div/div[2]/div/div[5]/button/span</value>
+      <webElementGuid>2de58868-0315-42da-8ab9-88097bbe682f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/button/span</value>
+      <webElementGuid>1aad6acc-1691-4002-a8e1-c009acf35475</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Sign In' or . = 'Sign In')]</value>
+      <webElementGuid>9431cb30-d575-46d1-b953-f52f253902ce</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Content Types</name>
+   <tag></tag>
+   <elementGuidId>ee80831a-232e-4a0c-93b8-886a77f0fd38</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='dotcms-documentation']/div[3]/div/div/section/div/ul/li/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.flexitem > ul > li > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>90fb7ae1-96ba-46d4-8dba-364a128b2f7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/docs/latest/content-types</value>
+      <webElementGuid>b88f5d31-540b-4554-b239-1db88389cbf8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Content Types</value>
+      <webElementGuid>ff60b35f-f942-4931-8a52-1814b829be21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dotcms-documentation&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12 doc-body&quot;]/section[@class=&quot;flexwrapper&quot;]/div[@class=&quot;flexitem&quot;]/ul[1]/li[1]/a[1]</value>
+      <webElementGuid>95f429d8-72ae-4fae-ab1a-02254c14bc19</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='dotcms-documentation']/div[3]/div/div/section/div/ul/li/a</value>
+      <webElementGuid>3114b5db-1f80-4ff3-b9c1-15b27c52d827</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Content Types')]</value>
+      <webElementGuid>ceeb4379-cbb9-4064-bbda-22d3e7389a42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/docs/latest/content-types')]</value>
+      <webElementGuid>f42a4f19-86dc-4df9-a214-c6562222b0eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/ul/li/a</value>
+      <webElementGuid>7d32941f-a5da-48e9-b8a8-e162768d69b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/docs/latest/content-types' and (text() = 'Content Types' or . = 'Content Types')]</value>
+      <webElementGuid>4b4a5972-ed33-4b12-8991-8f1fd862c44a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

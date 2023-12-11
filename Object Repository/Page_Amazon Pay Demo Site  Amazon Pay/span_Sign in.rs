@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Sign in</name>
+   <tag></tag>
+   <elementGuidId>e7b3bdde-7b89-4be6-924d-3290bc5cb240</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//bsp-header[@id='rails-main-nav']/div[2]/div[3]/div/nav/ul/li[3]/bsp-navigation-item/div/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.Page-header-navigation.second-navigation > div.Navigation > nav > ul.Navigation-items > li.Navigation-items-item > bsp-navigation-item.NavigationItem > div.NavigationItem-text > div.NavigationItem-button.Button-white > span.NavigationItem-button-label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1212de3f-3618-43e6-9326-762615459b5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>NavigationItem-button-label</value>
+      <webElementGuid>c1668a62-bad9-41ee-9f13-3030f835d5ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign in</value>
+      <webElementGuid>6d52dc09-e79b-4301-93ae-398365749d51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;rails-main-nav&quot;)/div[@class=&quot;Page-header-bar&quot;]/div[@class=&quot;Page-header-navigation second-navigation&quot;]/div[@class=&quot;Navigation&quot;]/nav[1]/ul[@class=&quot;Navigation-items&quot;]/li[@class=&quot;Navigation-items-item&quot;]/bsp-navigation-item[@class=&quot;NavigationItem&quot;]/div[@class=&quot;NavigationItem-text&quot;]/div[@class=&quot;NavigationItem-button Button-white&quot;]/span[@class=&quot;NavigationItem-button-label&quot;]</value>
+      <webElementGuid>a184134e-47b6-4d29-8857-92681363bddf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//bsp-header[@id='rails-main-nav']/div[2]/div[3]/div/nav/ul/li[3]/bsp-navigation-item/div/div/span</value>
+      <webElementGuid>be4ecf7c-f85a-4265-bb4e-1ee459fec39f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/nav/ul/li[3]/bsp-navigation-item/div/div/span</value>
+      <webElementGuid>fc935903-10a8-44bf-ab29-b6a1a101fd67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Sign in' or . = 'Sign in')]</value>
+      <webElementGuid>1922b101-c450-4654-9e6a-3e37987efacf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

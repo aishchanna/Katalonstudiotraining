@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Sign up</name>
+   <tag></tag>
+   <elementGuidId>89a22fb6-3bd3-4256-8861-176b191b4732</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='tags-show']/div/div[2]/div/div/a[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn2.btn2--medium</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>1cb24123-b49b-4515-9e47-2afe869655a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn2 btn2--medium</value>
+      <webElementGuid>3554f02a-a452-497a-8058-6180e592a8ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-nav-event-clicked</name>
+      <type>Main</type>
+      <value>Sign Up</value>
+      <webElementGuid>023acc7c-b017-40e8-9afd-ed3c06b1d91e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/signup/new</value>
+      <webElementGuid>27f7c04f-9db5-4862-b2b4-6cce4697c60f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign up</value>
+      <webElementGuid>40e62543-5062-470f-bd80-bf9b6beffadd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tags-show&quot;)/div[@class=&quot;nav-v2&quot;]/div[@class=&quot;nav-v2__wrapper&quot;]/div[@class=&quot;nav-v2-dynamic nav-v2-dynamic--loaded&quot;]/div[@class=&quot;nav-v2-dynamic__logged-out&quot;]/a[@class=&quot;btn2 btn2--medium&quot;]</value>
+      <webElementGuid>94fcbccc-db5d-47ee-8d90-2b6f2f5b5201</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='tags-show']/div/div[2]/div/div/a[3]</value>
+      <webElementGuid>06248928-36f3-4488-9d9e-0ea5c5f5f663</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Sign up')]</value>
+      <webElementGuid>e5608f1b-f788-4ad2-a98c-648a3a8e48aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/signup/new')]</value>
+      <webElementGuid>1b1989df-1c7a-40ca-906b-781b1aab332e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[3]</value>
+      <webElementGuid>891c6e83-cc15-49c9-92c8-47062c1b132e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/signup/new' and (text() = 'Sign up' or . = 'Sign up')]</value>
+      <webElementGuid>2567b1d5-cfdc-4033-85f0-203ec9a377a3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_The value of digital analytics</name>
+   <tag></tag>
+   <elementGuidId>85e26061-5fe1-4efe-bba0-491a59c38d84</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='material-menu-0']/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.material-menu__item.top-nav__menu-item</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>54d506db-4788-4bc9-a2c0-611912ca5de4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>material-menu__item top-nav__menu-item</value>
+      <webElementGuid>e58cc366-c45d-4f02-b7b5-af49ca852840</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/analytics/topic/12270055?hl=en&amp;ref_topic=12156336,12153943,2986333,</value>
+      <webElementGuid>11f2eb72-3bdf-429f-8008-c96a76b2dda9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>menuitem</value>
+      <webElementGuid>29617106-3a3a-4310-84c5-2194e43c388e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>The value of digital analytics</value>
+      <webElementGuid>8a87167c-c2a6-4101-9776-9aec3b413894</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;material-menu-0&quot;)/a[@class=&quot;material-menu__item top-nav__menu-item&quot;]</value>
+      <webElementGuid>4a2dd641-42e1-4361-a6fe-469d2e38e6d9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='material-menu-0']/a</value>
+      <webElementGuid>3a4112e2-5705-497d-a092-011db231e000</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'The value of digital analytics')]</value>
+      <webElementGuid>e6e11e78-ca9a-4def-830c-f7a4616acff0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/analytics/topic/12270055?hl=en&amp;ref_topic=12156336,12153943,2986333,')]</value>
+      <webElementGuid>a7809a3a-c49d-445b-86a9-a19e13dc9a39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[11]/div/a</value>
+      <webElementGuid>bacfe27d-d657-40f3-b0f6-c1e369bfbdfc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/analytics/topic/12270055?hl=en&amp;ref_topic=12156336,12153943,2986333,' and (text() = 'The value of digital analytics' or . = 'The value of digital analytics')]</value>
+      <webElementGuid>0ac5ec05-232c-48a6-a35b-6d6cd2e8fa90</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

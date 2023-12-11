@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b_Info</name>
+   <tag></tag>
+   <elementGuidId>0d814c4b-1b8f-409c-ac13-142613d5004c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='header-navigation']/ul/li[5]/a/b</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.nav-info > a.nav-parent > b</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>fc55a450-d6b9-47ae-85da-14e900cfb3b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Info</value>
+      <webElementGuid>d8aad3e2-f3b3-452b-8a16-b8f0dddf7a0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header-navigation&quot;)/ul[1]/li[@class=&quot;nav-info&quot;]/a[@class=&quot;nav-parent&quot;]/b[1]</value>
+      <webElementGuid>c8d97853-d389-4eac-b423-7f15b5eab573</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='header-navigation']/ul/li[5]/a/b</value>
+      <webElementGuid>ca93b93e-3ec7-44db-a4bc-8396b254effd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/a/b</value>
+      <webElementGuid>330c2e45-4e60-4dba-9d27-41e40b302c8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[(text() = 'Info' or . = 'Info')]</value>
+      <webElementGuid>d4ec3a0b-da5f-4bb5-88c7-e80d0b67f7d9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

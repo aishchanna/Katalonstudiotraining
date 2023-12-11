@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_No account Sign up</name>
+   <tag></tag>
+   <elementGuidId>80005598-e333-4b86-ac48-038f0cb30f10</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='sessions']/div[2]/div/div/div/div/div/div[2]/div/p/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.view-sign-up-button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>30b523bc-3eb0-4212-ae89-bb1086c47c4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>view-sign-up-button</value>
+      <webElementGuid>4a2b795a-eafb-4819-8f04-798daf1eb71f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:void(0);</value>
+      <webElementGuid>e59a322d-918e-4e84-8151-70f5f42c5a24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>No account? Sign up.</value>
+      <webElementGuid>4781ec19-be53-4ba4-b1aa-a0a107a51f43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sessions&quot;)/div[@class=&quot;hh login new-login-panel sections&quot;]/div[@class=&quot;section dark hh&quot;]/div[@class=&quot;fade hh inner lazy&quot;]/div[@class=&quot;container login-container&quot;]/div[@class=&quot;sixteen columns center&quot;]/div[@class=&quot;form sign-in-form&quot;]/div[@class=&quot;center field&quot;]/div[@class=&quot;field&quot;]/p[@class=&quot;center label-text&quot;]/a[@class=&quot;view-sign-up-button&quot;]</value>
+      <webElementGuid>3e408bc0-6154-4d6b-a868-76f0209a93b8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='sessions']/div[2]/div/div/div/div/div/div[2]/div/p/a</value>
+      <webElementGuid>32a306e5-2c1b-4984-bda2-3b10667d8ce8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'No account? Sign up.')]</value>
+      <webElementGuid>566cd17d-f0a0-4a87-a12f-8ee449964f4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'javascript:void(0);')])[2]</value>
+      <webElementGuid>8020694c-b8af-4655-97c8-f6f9f8c67e37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p/a</value>
+      <webElementGuid>fafaf596-13bd-449d-a0eb-27af86b99bb7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'javascript:void(0);' and (text() = 'No account? Sign up.' or . = 'No account? Sign up.')]</value>
+      <webElementGuid>35b8cb16-aff7-4076-9f25-bbea0ba6ecb1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

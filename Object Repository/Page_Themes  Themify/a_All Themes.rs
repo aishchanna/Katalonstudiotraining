@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_All Themes</name>
+   <tag></tag>
+   <elementGuidId>a0ce6e4c-413b-47b6-bf43-533f68f28366</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='menu-item-7040']/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#menu-item-7040 > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ad1094df-d794-4c45-bc61-08edf6cc6eb7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>//themify.me/themes</value>
+      <webElementGuid>4ee60dd6-4ed6-4ef6-96e8-41d52d1c13d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>All Themes</value>
+      <webElementGuid>b0e05ab9-beca-4f93-9d08-ccd2f62909d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu-item-7040&quot;)/a[1]</value>
+      <webElementGuid>40be7ddb-7100-4a8c-bd74-3e07f98448b3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='menu-item-7040']/a</value>
+      <webElementGuid>d60e87ae-e980-448b-b887-a743813352ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'All Themes')]</value>
+      <webElementGuid>d8390113-1ce3-47bb-845a-cc9d6d4367a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '//themify.me/themes')])[2]</value>
+      <webElementGuid>403874a1-72eb-4d03-a7fe-dbca14efe999</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/ul/li/a</value>
+      <webElementGuid>0e9e138c-2b6b-4b29-9755-e34bfd9e4eb1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '//themify.me/themes' and (text() = 'All Themes' or . = 'All Themes')]</value>
+      <webElementGuid>d8204e1f-9355-47ff-b1fa-585eacea226b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

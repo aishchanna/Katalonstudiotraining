@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Find talent</name>
+   <tag></tag>
+   <elementGuidId>ec104f87-8707-4b99-86d3-20a24ff05211</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='tags-show']/div/div[2]/nav/div/ul/li/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f96cdab2-54b7-462b-8b56-fdb37b9c69d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-nav-event-clicked</name>
+      <type>Main</type>
+      <value>Hire Designers</value>
+      <webElementGuid>666fe2cc-a826-42c7-b239-597c5f0de7f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/hiring</value>
+      <webElementGuid>7513da1f-b597-4089-85a1-a41310be33c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Find talent</value>
+      <webElementGuid>7af34667-b707-46aa-8b68-db71a2aa73f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tags-show&quot;)/div[@class=&quot;nav-v2&quot;]/div[@class=&quot;nav-v2__wrapper&quot;]/nav[@class=&quot;nav-v2-main&quot;]/div[@class=&quot;nav-v2-main__wrapper&quot;]/ul[@class=&quot;nav-v2-main__list&quot;]/li[@class=&quot;nav-v2-main__item&quot;]/a[1]</value>
+      <webElementGuid>c244855e-2aed-4375-96e7-827009fc1fee</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='tags-show']/div/div[2]/nav/div/ul/li/a</value>
+      <webElementGuid>41867c41-998e-40ce-966d-29541b68cb6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Find talent')]</value>
+      <webElementGuid>42f4addd-fd7e-43f0-8b7e-d828640fb98d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/hiring')]</value>
+      <webElementGuid>e9a42feb-faad-449b-892c-4357ada25f2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a</value>
+      <webElementGuid>0f0689d6-5183-4199-9a2f-a943bb21740c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/hiring' and (text() = 'Find talent' or . = 'Find talent')]</value>
+      <webElementGuid>82a34a5d-0c85-4be7-b274-94d6340eb8a7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Create an account</name>
+   <tag></tag>
+   <elementGuidId>b9009f7e-df03-4dae-8fae-4dc1d7afc3c7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='login']/div[5]/p/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.mt-1.mb-0.p-0 > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>e61d6ca3-dcb2-430f-9b96-09badc8687af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ga-click</name>
+      <type>Main</type>
+      <value>Sign in, switch to sign up</value>
+      <webElementGuid>34566f90-23c2-4966-a55c-9c10e0c8f6d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-hydro-click</name>
+      <type>Main</type>
+      <value>{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;sign in switch to sign up&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FBroadleafCommerce%2FDemoSite&quot;,&quot;user_id&quot;:null}}</value>
+      <webElementGuid>fc5ab528-58ee-4557-8698-350b908fdd3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-hydro-click-hmac</name>
+      <type>Main</type>
+      <value>7d3116c87c4090c6500c4ebf9fd1560891df9411dd00d49b8f6039d75fe3227f</value>
+      <webElementGuid>a3b4650d-43a8-4895-9899-2ebf491aa7b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/signup?return_to=https%3A%2F%2Fgithub.com%2FBroadleafCommerce%2FDemoSite&amp;source=login</value>
+      <webElementGuid>1a4c7b51-8064-4b4d-9954-cc778fff2209</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Create an account</value>
+      <webElementGuid>962a7334-1399-409c-8731-c8edf25856ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;login&quot;)/div[@class=&quot;login-callout mt-3&quot;]/p[@class=&quot;mt-1 mb-0 p-0&quot;]/a[1]</value>
+      <webElementGuid>3ba10f1b-ac02-4967-a8fb-60111dd151d5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='login']/div[5]/p/a</value>
+      <webElementGuid>3b9c6414-28ed-4272-85ed-604dd0b84608</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Create an account')]</value>
+      <webElementGuid>edbccaca-d2ba-49ad-a25b-3b66e16c3289</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/signup?return_to=https%3A%2F%2Fgithub.com%2FBroadleafCommerce%2FDemoSite&amp;source=login')]</value>
+      <webElementGuid>b6cb1813-8f1c-48bf-a080-01fd64e86309</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p/a</value>
+      <webElementGuid>89cb9bad-fb0a-483a-8dfe-98983d744e6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/signup?return_to=https%3A%2F%2Fgithub.com%2FBroadleafCommerce%2FDemoSite&amp;source=login' and (text() = 'Create an account' or . = 'Create an account')]</value>
+      <webElementGuid>05cc014b-b135-4a0d-8915-4b01a0da4cca</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Analytics for beginners</name>
+   <tag></tag>
+   <elementGuidId>79da9be7-361d-4bf8-8ffc-ffb0e553efa0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Analytics for beginners')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ul.top-nav > li > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>cbf8251c-d5f8-48fa-8b64-840131851332</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>121c806b-cb24-4e65-8a68-6dff1eb5768f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-haspopup</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>51d515f8-99d4-4a6f-9fb7-1ffb99848181</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-controls</name>
+      <type>Main</type>
+      <value>material-menu-0</value>
+      <webElementGuid>d0adf5f5-e09d-4f43-8215-a5a3e97656d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Analytics for beginners</value>
+      <webElementGuid>a384ac59-0e15-446a-a68b-c5de7402f7f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;hcfe&quot;]/body[@class=&quot;mobile&quot;]/div[@class=&quot;hcfe&quot;]/header[1]/div[3]/div[@class=&quot;appbar-bottom&quot;]/ul[@class=&quot;top-nav&quot;]/li[1]/a[1]</value>
+      <webElementGuid>d78c8dba-3b23-44b4-abf9-e9dd3ad0a578</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Analytics for beginners')]</value>
+      <webElementGuid>441c2a6f-4e43-4572-bb44-20ceaf09307a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/ul/li/a</value>
+      <webElementGuid>4f927494-97c7-4c13-8ed2-b04d8093e788</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'Analytics for beginners' or . = 'Analytics for beginners')]</value>
+      <webElementGuid>824daef0-fc7e-4f39-a626-e84d0edb1556</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
